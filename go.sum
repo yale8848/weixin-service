@@ -1,0 +1,6 @@
+github.com/danhper/structomap v0.6.2 h1:VryUhPR3Ju+FeXHXTL2RGPbRmIX/mN768jULh9weylM=
+github.com/danhper/structomap v0.6.2/go.mod h1:qmif0PLXZftsShsS0miHLhWv4VRR8awMUPnYxHAJCjg=
+github.com/fatih/structs v1.1.0 h1:Q7juDM0QtcnhCpeyLGQKyg4TOIghuNXrkL32pHAUMxo=
+github.com/fatih/structs v1.1.0/go.mod h1:9NiDSp5zOcgEDl+j00MP/WkGVPOlPRLejGD8Ga6PJ7M=
+github.com/huandu/xstrings v1.2.0 h1:yPeWdRnmynF7p+lLYz0H2tthW9lqhMJrQV/U7yy4wX0=
+github.com/huandu/xstrings v1.2.0/go.mod h1:DvyZB1rfVYsBIigL8HwpZgxHwXozlTgGqn63UyNX5k4=
