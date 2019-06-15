@@ -1,4 +1,4 @@
-## Golang微信后台接口
+## Golang微信，小程序后台接口
 
 ### Install
 
