@@ -2,7 +2,7 @@
 
 ### Install
 
-`go get github.com/yale8848/weixin-service@v0.1.1`
+`go get github.com/yale8848/weixin-service@v0.1.2`
 
 ### 小程序
 
